@@ -36,4 +36,6 @@ public class teste1 {
         this.name=name;
         this.price=price;
     }
+
+      sc.close;
 }
